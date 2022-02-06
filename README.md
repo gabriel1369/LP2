@@ -1,6 +1,3 @@
-# LP2
-Repositório do curso de LP2 / UERJ - Período 21.2
-
 <p>
 Olá, meu nome é Gabriel Brunoro Bravim </br>
 Aluno do curso de Ciência da Computação na Universidade Estadual do Rio de Janeiro (UERJ) </br>
