@@ -9,4 +9,4 @@ Estou cursando meu 3º período atualmente </br>
 
 Este repósitorio foi criado com o foco de armazenar arquivos para as aulas de Linguagem de Programação 2 (LP2).
 
-*Contato:* g.bravim11@gmail.com
+__Contato:__ g.bravim11@gmail.com
